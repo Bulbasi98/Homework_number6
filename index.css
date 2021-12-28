@@ -38,7 +38,7 @@ h1{
 }
 
 .main{
-   flex-grow:120;
+   flex-grow:10;
     background-color: rgb(70, 130, 180);
 }
 
